@@ -19,7 +19,7 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tesseract.png" />
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/opencv.png" />
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/keras.png" />
- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/computer.png" />
+ <img height="50" width="50" src="https://img.icons8.com/ios/50/000000/blynk.png" />
 <img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/>
 
 ### IDE and Tools I Use
