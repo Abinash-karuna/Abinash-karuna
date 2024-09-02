@@ -36,9 +36,8 @@
 
 
 
-## HackerRank Dashboard
+[![HackerRank Profile Badge](https://img.shields.io/badge/HackerRank-Profile-blue?logo=hackerrank&style=for-the-badge)](https://www.hackerrank.com/profile/kabi21211_ec)
 
-[![HackerRank Dashboard](https://via.placeholder.com/300x150?text=HackerRank+Dashboard)](https://www.hackerrank.com/dashboard)
 
 
 ## Skillrack Profile
