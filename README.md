@@ -36,9 +36,9 @@
 
 
 
+## HackerRank Dashboard
 
-### HackerRank
-[![HackerRank Badge](https://img.shields.io/badge/HackerRank-Abinash-green?logo=hackerrank&style=for-the-badge)](https://www.hackerrank.com/Abinash-karuna)
+[![HackerRank Dashboard](https://via.placeholder.com/300x150?text=HackerRank+Dashboard)](https://www.hackerrank.com/dashboard)
 
 
 ## Skillrack Profile
