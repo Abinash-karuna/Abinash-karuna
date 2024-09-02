@@ -41,4 +41,4 @@
 [![HackerRank Badge](https://img.shields.io/badge/HackerRank-Abinash-green?logo=hackerrank&style=for-the-badge)](https://www.hackerrank.com/Abinash-karuna)
 
 ### Skillrack
-[![Skillrack Badge](https://img.shields.io/badge/Skillrack-Abinash-blue?style=for-the-badge)](https://www.skillrack.com/)
+[![Skillrack Badge]([https://img.shields.io/badge/Skillrack-Abinash-blue?style=for-the-badge](http://www.skillrack.com/profile/355148/05111dc46bd8d4d928fcde4a19067f2f3e8cd429))](https://www.skillrack.com/)
