@@ -5,7 +5,6 @@
 - 🔭 Here's my [portfolio](https://abinash-karuna.github.io/port/)                                                 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on ML/AI
-- 🤔 I’m looking for help with Placements in TCS
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br /> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abinash009)
